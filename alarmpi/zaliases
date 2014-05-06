@@ -1,0 +1,3 @@
+alias lamp='sudo ~bender/bin/lamps'
+alias lon='sudo ~bender/bin/lamps on'
+alias loff='sudo ~bender/bin/lamps off'
